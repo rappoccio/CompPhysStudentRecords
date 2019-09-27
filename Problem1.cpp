@@ -3,7 +3,8 @@
 #include <fstream>
 #include <tuple>
 #include <numeric>
-
+#include <memory>
+#include <algorithm>
 
 
 // We are writing a program that:
